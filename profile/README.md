@@ -2,7 +2,7 @@
 
 # Hackathons
 
-2022 - Gothenburg
+2023 - Gothenburg
 
 
 # Links
