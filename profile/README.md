@@ -2,7 +2,8 @@
 
 # Hackathons
 
-[2023 - Gothenburg](https://github.com/ddi-hackathon-2023)
+🏙️ [2024 - Cologne](https://github.com/orgs/ddi-developers/projects/1) - 📝 [register](https://forms.gle/cR845B37MtCyh1En9)  
+🏙️ [2023 - Gothenburg](https://github.com/ddi-hackathon-2023)
 
 
 # Links
