@@ -1,12 +1,12 @@
 # DDI-Developers group
 
-# Hackathons
-🏙️ [2024 - Chur](https://github.com/orgs/ddi-developers/projects/3) - 📝 [register](https://forms.gle/UhQagyg7KAUqL1H96) - 💡 [add challenges](https://github.com/ddi-developers/.github/issues)  
+## Hackathons - list of challenges
+🏙️ [2024 - Chur](https://github.com/orgs/ddi-developers/projects/3)
 🏙️ [2024 - Cologne](https://github.com/orgs/ddi-developers/projects/1)  
 🏙️ [2023 - Gothenburg](https://github.com/ddi-hackathon-2023)
 
 
-# Links
+## Links
 
 DDI-Developers mailing list:  
 https://groups.google.com/g/ddi-developers
