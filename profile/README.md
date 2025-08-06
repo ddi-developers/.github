@@ -5,16 +5,18 @@
 🏙️ [2024 - Cologne](https://github.com/orgs/ddi-developers/projects/1)  
 🏙️ [2023 - Gothenburg](https://github.com/ddi-hackathon-2023)
 
+## Mailing List
+
+The mailing list is for posting technical questions and getting information about activities in the developers group.  
+You can read and subscribe to the mailing list at:  
+https://groups.google.com/g/ddi-developers
 
 ## Links
-
-DDI-Developers mailing list:  
-https://groups.google.com/g/ddi-developers
 
 DDI-Alliance on GitHub:  
 https://github.com/ddialliance
 
 ## Contacts to the chairs of the group
-Ingo Barkow - `ingo•barkow[at]fhgr•ch`  
-Oliver Hopt - `oliver•hopt[at]gesis•org`  
-Olof Olsson - `olof•olsson[at]snd•se`  
+Ingo Barkow (questions regarding the hackathons) - `ingo•barkow[at]fhgr•ch`  
+Oliver Hopt (general and technical questions) - `oliver•hopt[at]gesis•org`  
+Olof Olsson (general and technical questions) - `olof•olsson[at]snd•se`  
