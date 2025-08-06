@@ -13,3 +13,8 @@ https://groups.google.com/g/ddi-developers
 
 DDI-Alliance on GitHub:  
 https://github.com/ddialliance
+
+## Contacts to the chairs of the group
+Ingo Barkow - `ingo•barkow[at]fhgr•ch`  
+Oliver Hopt - `oliver•hopt[at]gesis•org`  
+Olof Olsson - `olof•olsson[at]snd•se`  
